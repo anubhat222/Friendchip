@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "982929668378",
+    "firebase_url": "https://chatapp-9e3fa.firebaseio.com",
+    "project_id": "chatapp-9e3fa",
+    "storage_bucket": "chatapp-9e3fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982929668378:android:64c173b641624007ac14a3",
+        "android_client_info": {
+          "package_name": "com.anushabhatt.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982929668378-kfpvlku5mnbkpd2bcq8eb8bit6t9sccj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwWqI0crrEiHLHolNk5DQ3zK4DAiT9VN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982929668378-kfpvlku5mnbkpd2bcq8eb8bit6t9sccj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
